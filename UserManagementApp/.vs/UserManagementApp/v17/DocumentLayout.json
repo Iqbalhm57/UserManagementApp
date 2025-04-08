@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\net\\UserManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\filters\\authfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\migrations\\20250404095623_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\migrations\\20250404095623_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\migrations\\20250405163358_finalfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\migrations\\20250405163358_finalfix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\migrations\\20250406160118_securityupdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\migrations\\20250406160118_securityupdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\shared\\_notificationmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\shared\\_notificationmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|e:\\net\\usermanagementapp\\usermanagementapp\\usermanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0837C73A-742F-4CC6-B698-02C3D1A72458}|UserManagementApp\\UserManagementApp.csproj|solutionrelative:usermanagementapp\\usermanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Program.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Program.cs",
+              "RelativeToolTip": "UserManagementApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:06:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "jquery.validate.unobtrusive.js",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeDocumentMoniker": "UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "RelativeToolTip": "UserManagementApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-08T09:37:36.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "UserManagementApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:10:34.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "UserManagementApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T07:13:37.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserManagementApp\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserManagementApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-07T17:01:42.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\wwwroot\\favicon.ico",
+              "RelativeDocumentMoniker": "UserManagementApp\\wwwroot\\favicon.ico",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "RelativeToolTip": "UserManagementApp\\wwwroot\\favicon.ico - Icon [32x32, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-04-07T15:08:26.823Z",
+              "EditorCaption": " - Icon [32x32, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "UserManagementApp\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "UserManagementApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-07T15:08:06.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthFilter.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Filters\\AuthFilter.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Filters\\AuthFilter.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Filters\\AuthFilter.cs",
+              "RelativeToolTip": "UserManagementApp\\Filters\\AuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:01:38.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "UserManagementApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T17:01:31.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "UserManagementApp\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T08:53:56.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250404095623_InitialCreate.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Migrations\\20250404095623_InitialCreate.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Migrations\\20250404095623_InitialCreate.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Migrations\\20250404095623_InitialCreate.cs",
+              "RelativeToolTip": "UserManagementApp\\Migrations\\20250404095623_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T09:56:24.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250405163358_FinalFix.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Migrations\\20250405163358_FinalFix.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Migrations\\20250405163358_FinalFix.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Migrations\\20250405163358_FinalFix.cs",
+              "RelativeToolTip": "UserManagementApp\\Migrations\\20250405163358_FinalFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:33:59.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250406160118_SecurityUpdates.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Migrations\\20250406160118_SecurityUpdates.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Migrations\\20250406160118_SecurityUpdates.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Migrations\\20250406160118_SecurityUpdates.cs",
+              "RelativeToolTip": "UserManagementApp\\Migrations\\20250406160118_SecurityUpdates.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T16:01:18.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "UserManagementApp\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:04:41.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "UserManagementApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:39:10.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserManagementApp\\Models\\User.cs",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Models\\User.cs",
+              "RelativeToolTip": "UserManagementApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T18:35:38.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T10:59:14.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T11:00:42.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T14:34:57.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T14:34:58.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T19:58:37.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_NotificationModal.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Shared\\_NotificationModal.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\Shared\\_NotificationModal.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Shared\\_NotificationModal.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\Shared\\_NotificationModal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T16:16:09.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T14:35:01.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T14:35:03.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\Users\\Index.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-04T08:59:45.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T14:35:10.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UserManagementApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UserManagementApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-05T14:35:12.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "UserManagementApp\\appsettings.json",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\appsettings.json",
+              "RelativeToolTip": "UserManagementApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-04T07:06:10.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "UserManagementApp\\wwwroot\\js\\site.js",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "UserManagementApp\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-07T15:08:23.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UserManagementApp.csproj",
+              "DocumentMoniker": "E:\\net\\UserManagementApp\\UserManagementApp\\UserManagementApp.csproj",
+              "RelativeDocumentMoniker": "UserManagementApp\\UserManagementApp.csproj",
+              "ToolTip": "E:\\net\\UserManagementApp\\UserManagementApp\\UserManagementApp.csproj",
+              "RelativeToolTip": "UserManagementApp\\UserManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-04T09:00:32.3Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+﻿@model List<UserManagementApp.Models.User>
+
+<div class="container mt-4">
+    <div id="alertContainer"></div>
+
+    <div class="toolbar mb-3">
+        <button type="button" class="btn btn-danger me-2" onclick="handleAction('Block')">
+            <i class="bi bi-lock"></i> Block
+        </button>
+        <button type="button" class="btn btn-success me-2" onclick="handleAction('Unblock')">
+            <i class="bi bi-unlock"></i>
+        </button>
+        <button type="button" class="btn btn-warning" onclick="handleAction('Delete')">
+            <i class="bi bi-trash"></i>
+        </button>
+    </div>
+
+    @Html.AntiForgeryToken()
+
+    <table class="table table-hover table-bordered">
+        <thead class="table-dark">
+            <tr>
+                <th><input type="checkbox" id="selectAll"></th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Last Login</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var user in Model)
+            {
+                <tr>
+                    <td><input type="checkbox" class="userCheckbox" value="@user.UserId"></td>
+                    <td>@user.Name</td>
+                    <td>@user.Email</td>
+                    <td>@user.LastLogin?.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                    <td>
+                        <span class="badge @(user.Status == "Active" ? "bg-success" : "bg-danger")">
+                            @user.Status
+                        </span>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+
+@section Scripts {
+    <script>
+        // Select All Logic
+        document.getElementById('selectAll').addEventListener('change', function() {
+            document.querySelectorAll('.userCheckbox').forEach(checkbox => {
+                checkbox.checked = this.checked;
+            });
+        });
+
+        // Action Handler
+        async function handleAction(action) {
+            const userIds = Array.from(document.querySelectorAll('.userCheckbox:checked'))
+                                .map(checkbox => parseInt(checkbox.value));
+
+            if (userIds.length === 0) {
+                showAlert('Please select at least one user!', 'warning');
+                return;
+            }
+
+            try {
+                const response = await fetch('/Users/ManageUsers', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'RequestVerificationToken': document.querySelector('input[name="__RequestVerificationToken"]').value
+                    },
+                    body: JSON.stringify({
+                        UserIds: userIds,
+                        Action: action
+                    })
+                });
+
+                const data = await response.json();
+
+                if (data.redirect) {
+                    window.location.href = data.redirectUrl;
+                } else {
+                    showAlert(data.message, 'success');
+                    setTimeout(() => window.location.reload(), 1500);
+                }
+            } catch (error) {
+                showAlert('Operation failed!', 'danger');
+            }
+        }
+
+        // Alert System
+        function showAlert(message, type) {
+            const alert = `<div class="alert alert-${type} alert-dismissible fade show">
+                            ${message}
+                            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                           </div>`;
+            document.getElementById('alertContainer').innerHTML = alert;
+        }
+    </script>
+}
